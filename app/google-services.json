@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660474149925",
+    "project_id": "sunny-monkey",
+    "storage_bucket": "sunny-monkey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660474149925:android:1b24c20e15f73a148053cc",
+        "android_client_info": {
+          "package_name": "com.weather.sunnymonkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660474149925-k2oa2gnlkb5d7bs8514i699ad2dhvl5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhgE1Tx9-wHaatwJmWAJaq9_sdPB4TTw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660474149925-k2oa2gnlkb5d7bs8514i699ad2dhvl5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
